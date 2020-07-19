@@ -1,9 +1,11 @@
-### Introduction
+## Introduction
 
 Yelp Camp is a Yelp-like node.js web app. It's the final course project of the Web Develop Bootcamp course in Udemy. Users and campground owners can upload their campground information to the website, and other users can leave a comment to the campground.
 
 [Live Demo](http://app.david916.com:2000)  
 [Source Code](https://github.com/fssongwei/YelpCamp)
+
+
 
 The app is built on Node.js with Express. Other technologies and library using in this project are listing below: 
 
@@ -15,7 +17,7 @@ The app is built on Node.js with Express. Other technologies and library using i
 
 
 
-### Updates
+## Updates
 
 ##### 2020.7.19 Version 1.0
 
@@ -38,3 +40,13 @@ Other features comming. If you have any idea, send email to ws446@cornell.edu
 6. Payment with Stripe API
 7. Ratings
 8. Pagination in campgrounds index
+
+
+
+## Demo
+
+![mainpage.png](https://i.loli.net/2020/07/19/jJb98kKhSAsix5M.png)
+
+![camppage.png](https://i.loli.net/2020/07/19/rjnZtfvFVU9caLR.png)
+
+
